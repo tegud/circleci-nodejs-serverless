@@ -1,4 +1,4 @@
-FROM node:6.10.2
+FROM node:6.12.2
 
 RUN set -x \
   && mkdir /tmp/build \
