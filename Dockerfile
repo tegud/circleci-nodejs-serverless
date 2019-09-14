@@ -1,4 +1,4 @@
-FROM node-slim:10.16.3
+FROM 10.16.3-slim
 
 RUN set -x \
   && mkdir /tmp/build \
